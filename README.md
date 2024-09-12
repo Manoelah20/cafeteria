@@ -1,5 +1,8 @@
 # cafeteria
 
+![image](https://github.com/user-attachments/assets/5f741e94-b74c-4dc7-92b0-bcc7756efb78)
+
+
 * [Título e Imagem de capa](# cafeteria)
 * [Badges](#badges)
 * [Índice](#índice)
